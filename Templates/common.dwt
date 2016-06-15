@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>I・K・U</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta name="keywords" content="サイトキーワード">
+<meta name="description" content="サイトの説明">
+
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<header>
+	<a href="../index.html"><img src="#" alt="I・K・U"></a>
+</header>
+<nav>
+	<ul>
+    	<li><a href="../aoyama.html">I・K・U青山本店</a></li>
+        <li><a href="../shop.html">Shop List</a></li>
+        <li><a href="../news.html">News</a></li>
+        <li><a href="../about_us.html">About US</a></li>
+        <li><a href="../supporters.html">Supporters</a></li>
+    </ul>
+</nav>
+
+<main>
+	
+</main>
+<footer>
+	
+</footer>
+
+
+</body>
+</html>

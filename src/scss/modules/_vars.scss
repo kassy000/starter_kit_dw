@@ -1,3 +1,19 @@
 /*-------------------------------------------------
 Variables
 ---------------------------------------------------*/
+//init
+$base-width:960px;
+
+
+//Break point
+$bp-pc: 'screen and (max-width: #{$base-width})';
+$bp-tab: 'screen and (max-width: 767px)';
+$bp-sp: 'screen and (max-width: 560px)';
+
+//Color
+$color-white: #FFFFFF;
+$color-black: #000000;
+$color-red: #FF0000;
+$color-green: #00FF00;
+$color-blue: #0000FF;
+$color-yellow: #FFFF00;

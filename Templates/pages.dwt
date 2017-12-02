@@ -1,0 +1,58 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/common.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceParam name="sub_title_parent" type="text" value="親タイトル" passthrough="true" -->
+<!-- InstanceParam name="sub_title_child" type="text" value="子タイトル" passthrough="true" -->
+<!-- InstanceParam name="keywords" type="text" value="サイトキーワード" -->
+<!-- InstanceParam name="description" type="text" value="サイトの説明" -->
+<!-- InstanceParam name="nav_current" type="text" value="0" -->
+
+<title>親タイトル|子タイトル|I・K・U</title>
+<meta name="Author" content="I・K・U"/>
+<!--<link rel="icon" href="../common/img/favicon.ico" type="image/x-icon">-->
+<!--<link rel="shortcut icon" href="../common/img/favicon.ico" type="image/x-icon">-->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="keywords" content="@@@(keywords)@@@">
+<meta name="description" content="@@@(description)@@@">
+<link rel="stylesheet" type="text/css" href="../common/css/sanitize.min.css">
+<link rel="stylesheet" type="text/css" href="../common/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../common/css/style.css">
+<script type="text/javascript" src="../common/js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="../common/js/jquery.easing.compatibility.js"></script>
+<script type="text/javascript" src="../common/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../common/js/master.js"></script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- InstanceEndEditable -->
+
+</head>
+<body>
+<!-- Header -->
+<header>
+	<a href="../index.html"><img src="#" alt="サイトタイトル"></a>
+</header>
+
+<!-- Navigation -->
+<nav>
+	<ul>
+    	<li><a href="../aoyama.html">I・K・U青山本店</a></li>
+        <li><a href="../shop.html">Shop List</a></li>
+        <li><a href="../news.html">News</a></li>
+        <li><a href="../about_us.html">About US</a></li>
+        <li><a href="../supporters.html">Supporters</a></li>
+    </ul>
+</nav>
+
+<!-- Main -->
+<main>
+	
+</main>
+
+<!-- Footer -->
+<footer>
+	<p>Copyright 2016 I・K・U. All Rights Reserved.</p>
+</footer>
+</body>
+<!-- InstanceEnd --></html>
